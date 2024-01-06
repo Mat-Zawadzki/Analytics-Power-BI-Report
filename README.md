@@ -14,8 +14,7 @@ Using the
 
 ## Pages + Visuals Created
 Executive Summary
-![Executive Summary Screenshot](https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/ExecutiveSummary.png?raw=true, width="500")
-
+<img src="https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/ExecutiveSummary.png?raw=true" alt="alt text" width="500" >
 Customer Detail
 
 Product Detail
