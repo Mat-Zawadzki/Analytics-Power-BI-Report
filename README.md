@@ -31,8 +31,3 @@ Using the
 
 ## File structure 
 project_description includes a detailed step by step of the entire process
-
-It'd be great to have a README in your repo showing screenshots of your work. One
-way you can organise the information for this project is to write about loading each
-data source, creating the data model and listing each visual created for each page of
-your repor
