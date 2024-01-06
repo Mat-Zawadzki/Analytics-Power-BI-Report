@@ -13,8 +13,10 @@ Created a PowerBi Report on stores, products, customers on a multi-national comp
 Using the 
 
 ## Pages + Visuals Created
-<img src="https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/ExecutiveSummary.png?raw=true" alt="alt text" width="400" align="right">
 Executive Summary
+
+<img src="https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/ExecutiveSummary.png?raw=true" alt="alt text" width="400" align="right">
+
  - Total Orders by Category - Clustered Bar Chart
  - Total Revenue by Date - Line Chart
 
