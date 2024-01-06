@@ -1,6 +1,9 @@
-# Analytics Report in Microsoft Power BI
+# <ins>Analytics Report in Microsoft Power BI<ins>
 
 <img src="https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/ExecutiveSummary.png?raw=true" alt="alt text" width="max">
+
+## Contents
+
 
 ## Project Overview
 Created a PowerBi Report on stores, products, customers on a multi-national company
@@ -16,7 +19,7 @@ Created a PowerBi Report on stores, products, customers on a multi-national comp
 Using the 
 
 ## Pages + Visuals Created
-<ins>Executive Summary<ins>
+### Executive Summary
 
 > <img src="https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/ExecutiveSummary.png?raw=true" alt="alt text" width="400" align="right">
 >
