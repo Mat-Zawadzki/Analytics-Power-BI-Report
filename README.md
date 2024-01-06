@@ -13,15 +13,20 @@ Created a PowerBi Report on stores, products, customers on a multi-national comp
 Using the 
 
 ## Pages + Visuals Created
-Executive Summary
-<img src="https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/ExecutiveSummary.png?raw=true" alt="alt text" width="500" >
-Customer Detail
+#### Executive Summary
+> - 
+>
+><br>
+><img src="https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/ExecutiveSummary.png?raw=true" alt="alt text" width="720">
+><br>
 
-Product Detail
+#### Customer Detail
 
-Stores Drill Through
+#### Product Detail
 
-Stores Map
+#### Stores Drill Through
+
+#### Stores Map
 
 
 ## File structure 
