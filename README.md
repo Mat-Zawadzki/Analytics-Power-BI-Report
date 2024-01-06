@@ -14,11 +14,12 @@ Using the
 
 ## Pages + Visuals Created
 #### Executive Summary
-> - 
->
-><br>
-><img src="https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/ExecutiveSummary.png?raw=true" alt="alt text" width="720">
-><br>
+ - Total Orders by Category - Clustered Bar Chart
+ - Total Revenue by Date - Line Chart
+
+<br>
+<img src="https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/ExecutiveSummary.png?raw=true" alt="alt text" width="720">
+<br>
 
 #### Customer Detail
 
