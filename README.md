@@ -13,7 +13,7 @@ Created a PowerBi Report on stores, products, customers on a multi-national comp
 Using the 
 
 ## Pages + Visuals Created
-#### Executive Summary
+Executive Summary
  - Total Orders by Category - Clustered Bar Chart
  - Total Revenue by Date - Line Chart
 
