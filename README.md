@@ -1,5 +1,7 @@
 # Analytics Report in Microsoft Power BI
+
 <img src="https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/ExecutiveSummary.png?raw=true" alt="alt text" width="720">
+
 ## Project Overview
 Created a PowerBi Report on stores, products, customers on a multi-national company
 
