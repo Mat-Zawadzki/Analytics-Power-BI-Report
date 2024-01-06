@@ -23,7 +23,7 @@ Executive Summary
  - Total Orders by Category - Clustered Bar Chart
  - Total Revenue by Date - Line Chart
 
-
+<br>
 
 #### Customer Detail
 
