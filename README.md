@@ -21,7 +21,7 @@ Using the
 ## Pages + Visuals Created
 ### Executive Summary
 
-> <img src="https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/ExecutiveSummary.png?raw=true" alt="alt text" width="max /2 " align="right">
+> <img src="https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/ExecutiveSummary.png?raw=true" alt="alt text" width="400 " align="right">
 >
 > - Total Orders by Category - Clustered Bar Chart
 > - Total Revenue by Date - Line Chart
@@ -30,7 +30,7 @@ Using the
 
 ### Customer Detail
 
-><img src="https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/CustomerDetails.png?raw=true" alt="alt text" width="max /2" align="right">
+><img src="https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/CustomerDetails.png?raw=true" alt="alt text" width="400" align="right">
 >
 >
 >
