@@ -41,9 +41,12 @@ Using the
 
 ### Customer Detail
 
->
->
->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ---
 
@@ -51,23 +54,38 @@ Using the
 
 ### Product Detail
 
->
->
->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ---
 
 <img src="https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/CustomerDetails.png?raw=true" alt="alt text" width="400" align="right"> 
 
 ### Stores Drill Through
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ---
 
 <img src="https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/CustomerDetails.png?raw=true" alt="alt text" width="400" align="right"> 
 
 ### Stores Map
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
+---
 
 ## File structure 
 project_description includes a detailed step by step of the entire process
