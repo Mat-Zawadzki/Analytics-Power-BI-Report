@@ -26,12 +26,12 @@ Using the
 
 ### Executive Summary
 
-> - Total Orders by Category - Clustered Bar Chart
-> - Total Revenue by Date - Line Chart
+> - Total Orders by Category - Clustered Bar 
+> - Total Revenue by Date - Line 
+> - Total Rev by Country and store - Donut
+> - Total KPIs
+> - On metric KPIs 
 
-<br>
-<br>
-<br>
 <br>
 <br>
 
