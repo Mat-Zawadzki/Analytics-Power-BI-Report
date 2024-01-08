@@ -20,6 +20,8 @@ Using the
 
 ## Pages + Visuals Created
 
+---
+
 <img src="https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/ExecutiveSummary.png?raw=true" alt="alt text" width="400 " align="right">
 
 ### Executive Summary
@@ -35,20 +37,36 @@ Using the
 
 ---
 
-<img src="https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/CustomerDetails.png?raw=true" alt="alt text" width="400" align="right">
+<img src="https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/CustomerDetails.png?raw=true" alt="alt text" width="400" align="left">
 
 ### Customer Detail
 
+>
+>
+>
+
+---
+
+<img src="https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/CustomerDetails.png?raw=true" alt="alt text" width="400" align="right">
+
+### Product Detail
 
 >
 >
 >
 
-Product Detail
+---
 
-Stores Drill Through
+<img src="https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/CustomerDetails.png?raw=true" alt="alt text" width="400" align="right"> 
 
-Stores Map
+### Stores Drill Through
+
+
+---
+
+<img src="https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/CustomerDetails.png?raw=true" alt="alt text" width="400" align="right"> 
+
+### Stores Map
 
 
 ## File structure 
