@@ -47,6 +47,7 @@ Using the
 <br>
 <br>
 <br>
+<br>
 
 ---
 
@@ -54,6 +55,7 @@ Using the
 
 ### Product Detail
 
+<br>
 <br>
 <br>
 <br>
@@ -72,12 +74,14 @@ Using the
 <br>
 <br>
 <br>
+<br>
 
 ---
 
 <img src="https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/CustomerDetails.png?raw=true" alt="alt text" width="400" align="right"> 
 
 ### Stores Map
+<br>
 <br>
 <br>
 <br>
