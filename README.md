@@ -32,6 +32,8 @@ Using the
 <br>
 <br>
 
+---
+
 ### Customer Detail
 
 ><img src="https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/CustomerDetails.png?raw=true" alt="alt text" width="400" align="right">
