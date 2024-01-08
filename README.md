@@ -1,4 +1,4 @@
-# <ins>Analytics Report in Microsoft Power BI<ins>
+# Analytics Report in Microsoft Power BI
 
 <img src="https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/ExecutiveSummary.png?raw=true" alt="alt text" width="max">
 
@@ -21,20 +21,25 @@ Using the
 ## Pages + Visuals Created
 ### Executive Summary
 
-> <img src="https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/ExecutiveSummary.png?raw=true" alt="alt text" width="400" align="right">
+> <img src="https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/ExecutiveSummary.png?raw=true" alt="alt text" width="max /2 " align="right">
 >
 > - Total Orders by Category - Clustered Bar Chart
 > - Total Revenue by Date - Line Chart
 
 <br>
 
-<ins>Customer Detail<ins>
+### Customer Detail
 
-<ins>Product Detail<ins>
+><img src="https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/CustomerDetails.png?raw=true" alt="alt text" width="max /2" align="right">
+>
+>
+>
 
-<ins>Stores Drill Through<ins>
+Product Detail
 
-<ins>Stores Map<ins>
+Stores Drill Through
+
+Stores Map
 
 
 ## File structure 
