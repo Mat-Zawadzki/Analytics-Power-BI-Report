@@ -27,6 +27,10 @@ Using the
 > - Total Revenue by Date - Line Chart
 
 <br>
+<br>
+<br>
+<br>
+<br>
 
 ### Customer Detail
 
