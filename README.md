@@ -17,7 +17,7 @@ This project focuses on analyzing and visualizing data from various sources to g
 
 
 ## File structure 
-'''bash
+'''cmd
 Analytics-Power-BI-Report
 ├───Clips
 ├───Images
