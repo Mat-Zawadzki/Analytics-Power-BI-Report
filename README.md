@@ -31,8 +31,9 @@ Using the
 
 ---
 <video width="320" height="240" controls>
-  <source src="https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/ExecutiveSummary.png?raw=true type="video/mov">
+<source src="https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/ExecutiveSummary.png?raw=true type="video">
 </video>
+
 < src="https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/ExecutiveSummary.png?raw=true" alt="alt text" width="400 " align="right">
 
 ### Executive Summary
