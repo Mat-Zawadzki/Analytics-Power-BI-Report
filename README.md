@@ -1,6 +1,8 @@
 # Analytics Report in Microsoft Power BI
 
-<img src="https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/ExecutiveSummary.png?raw=true" alt="alt text" width="max">
+
+https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/assets/114954374/de639c65-d436-46a5-99f8-6c778233bddb
+
 
 ## Contents
 
