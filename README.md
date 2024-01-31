@@ -5,13 +5,18 @@
 ## Contents
 
 1. [Project Overview](#project-overview)
-2. [Loading in Data](#Loading-in-data)
+2. [File structure ](#File-structure)
 3. [Creating Data Model](#Creating-data-model)
 4. [Pages and Visuals Created](#Pages-and-visuals-created)
-5. [File structure ](#File-structure)
+5. [Loading in Data](#Loading-in-data)
 
 ## Project Overview
 This project focuses on analyzing and visualizing data from various sources to gain valuable insights into business operations. In this readme file, we'll guide you through the initial steps of the project, specifically the downloading, importing, and transformation of data within the following tables: Orders, Products, Sales, and Customers.
+
+
+## File structure 
+project_description includes a detailed step by step of the entire process
+
 
 ## Loading in Data
 The project relies on four key tables: Orders, Products, Sales, and Customers. Each table provides essential information that contributes to a comprehensive understanding of the business data.
@@ -30,9 +35,6 @@ Using the
 ## Pages + Visuals Created
 
 ---
-https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/ExecutiveSummary.png?raw=true 
-
-alt="alt text" width="400 " align="right"
 
 ### Executive Summary
 
