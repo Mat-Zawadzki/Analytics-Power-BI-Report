@@ -22,11 +22,15 @@ This project focuses on analyzing and visualizing data from various sources to g
 ## File structure 
 ![Alt text](https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/tree.png)
 
-> - Clips contains the videos used in the Readme
+> - Clips - contains the videos used in the Readme
 >
-> - Images contains images used 
+> - Images - contains images used 
 >
-> - Tables contains all the csv table files
+> - Tables - contains all the csv table files
+>
+> - Mat_Report - The report 
+>
+> - Tranformed_Orders_Table - Report I was testing transformations in
 
 <br>
 
