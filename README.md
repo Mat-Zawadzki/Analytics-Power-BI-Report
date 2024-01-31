@@ -30,7 +30,16 @@ The project relies on four key tables: Orders, Products, Sales, and Customers. E
 - **Customers:** Stores customer-related information, including customer ID, name, and geographical location.
 
 ## Creating Data Model
-Using the 
+Using the loaded in data I created a star schema with active, many-to-one relationships on the orders table. I created my own Date table using dax expressions.
+
+## Downloading
+To download and view the report on your local machine, run the command in the correct directory you wish to download it into:
+
+`git clone https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report`
+
+Can also change the name of the folder:
+
+`mv Analytics-Power-BI-Report <YOUR_NAME_CHANGE_HERE>`
 
 ## Pages + Visuals Created
 
@@ -75,5 +84,5 @@ https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/assets/114954374/eda76
 
 ---
 
-## File structure 
-project_description includes a detailed step by step of the entire process
+
+### License
