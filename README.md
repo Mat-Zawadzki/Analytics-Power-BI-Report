@@ -19,10 +19,9 @@ This project focuses on analyzing and visualizing data from various sources to g
 ## File structure 
 ![Alt text](https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/tree.png)
 
-- Clips contains the videos used in the Readme
-- Images contains images used 
-- 
-- project_description includes a detailed step by step of the entire process
+> - Clips contains the videos used in the Readme
+> - Images contains images used 
+> - Tables contains all the csv table files
 
 
 ## Loading in Data
