@@ -46,7 +46,9 @@ Using the
 
 ---
 
-<img src="https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/CustomerDetails.png?raw=true" alt="alt text" width="400" align="left">
+
+https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/assets/114954374/10f89868-4bb5-42ee-8589-94f7c161ec9b
+
 
 ### Customer Detail
 
