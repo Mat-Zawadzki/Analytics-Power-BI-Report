@@ -4,20 +4,25 @@
 
 ## Contents
 
+1. [Project Overview](#project-overview)
+2. [Loading in Data](#importing-data)
+3. [Creating Data Model](#Creating-Data-Model)
+4. [Pages + Visuals Created](#Pages-+-Visuals-Created)
+5. [File structure ](#File-structure)
 
 ## Project Overview
-Created a PowerBi Report on stores, products, customers on a multi-national company
+This project focuses on analyzing and visualizing data from various sources to gain valuable insights into business operations. In this readme file, we'll guide you through the initial steps of the project, specifically the downloading, importing, and transformation of data within the following tables: Orders, Products, Sales, and Customers.
 
 ## Loading in Data
 The project relies on four key tables: Orders, Products, Sales, and Customers. Each table provides essential information that contributes to a comprehensive understanding of the business data.
 
-- Orders: Contains details about each order, including the order and shipping dates, the customer, store and product IDs for associating with dimension tables, and the amount of each product ordered.
+- **Orders:** Contains details about each order, including the order and shipping dates, the customer, store and product IDs for associating with dimension tables, and the amount of each product ordered.
 
-- Products: Encompasses information about each product sold by the company, including the product code, name, category, cost price, sale price, and weight.
+- **Products:** Encompasses information about each product sold by the company, including the product code, name, category, cost price, sale price, and weight.
 
-- Stores: Contains information on each store, including the store code, store type, country, region, and address.
+- **Stores:** Contains information on each store, including the store code, store type, country, region, and address.
 
-- Customers: Stores customer-related information, including customer ID, name, and geographical location.
+- **Customers:** Stores customer-related information, including customer ID, name, and geographical location.
 
 ## Creating Data Model
 Using the 
