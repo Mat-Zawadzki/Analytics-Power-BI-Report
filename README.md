@@ -31,6 +31,7 @@ Using the
 
 ---
 https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/ExecutiveSummary.png?raw=true 
+
 alt="alt text" width="400 " align="right"
 
 ### Executive Summary
