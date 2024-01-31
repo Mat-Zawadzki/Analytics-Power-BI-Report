@@ -17,7 +17,7 @@ This project focuses on analyzing and visualizing data from various sources to g
 
 
 ## File structure 
-
+'''
 Analytics-Power-BI-Report
 ├───Clips
 ├───Images
@@ -26,6 +26,7 @@ Analytics-Power-BI-Report
 ├───Tables
 │   └───Customers
 └───__pycache__
+'''
 
 - Clips contains the videos used in the Readme
 - Images contains images used 
