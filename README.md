@@ -61,8 +61,6 @@ Can also change the name of the folder:
 
 ## Pages + Visuals Created
 
-<br>
-
 ---
 
 ### Executive Summary
