@@ -17,13 +17,13 @@ This project focuses on analyzing and visualizing data from various sources to g
 
 
 ## File structure 
-Analytics-Power-BI-Report
-├───Clips
-├───Images
-│   └───navigation_bar_images
-│       └───navigation_bar_images
-├───Tables
-│   └───Customers
+Analytics-Power-BI-Report<br>
+├───Clips<br>
+├───Images<br>
+│   └───navigation_bar_images<br>
+│       └───navigation_bar_images<br>
+├───Tables<br>
+│   └───Customers<br>
 └───__pycache__`
 
 - Clips contains the videos used in the Readme
