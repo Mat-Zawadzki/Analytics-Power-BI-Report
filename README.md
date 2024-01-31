@@ -6,16 +6,31 @@
 
 1. [Project Overview](#project-overview)
 2. [File structure ](#File-structure)
-3. [Creating Data Model](#Creating-data-model)
-4. [Pages and Visuals Created](#Pages-and-visuals-created)
-5. [Loading in Data](#Loading-in-data)
+3. [Loading in Data](#Loading-in-data)
+4. [Creating Data Model](#Creating-data-model)
+5. [Downloading](#Downloading)
+6. [Pages and Visuals Created](#Pages-and-visuals-created)
+7. [License](#License)
 
 ## Project Overview
 This project focuses on analyzing and visualizing data from various sources to gain valuable insights into business operations. In this readme file, we'll guide you through the initial steps of the project, specifically the downloading, importing, and transformation of data within the following tables: Orders, Products, Sales, and Customers.
 
 
 ## File structure 
-project_description includes a detailed step by step of the entire process
+
+Analytics-Power-BI-Report
+├───Clips
+├───Images
+│   └───navigation_bar_images (1)
+│       └───navigation_bar_images
+├───Tables
+│   └───Customers
+└───__pycache__
+
+- Clips contains the videos used in the Readme
+- Images contains images used 
+- 
+- project_description includes a detailed step by step of the entire process
 
 
 ## Loading in Data
@@ -85,4 +100,4 @@ https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/assets/114954374/eda76
 ---
 
 
-### License
+## License
