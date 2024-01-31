@@ -25,6 +25,7 @@ This project focuses on analyzing and visualizing data from various sources to g
 >
 > - Tables contains all the csv table files
 
+<br>
 
 ## Loading in Data
 The project relies on four key tables: Orders, Products, Sales, and Customers. Each table provides essential information that contributes to a comprehensive understanding of the business data.
