@@ -12,9 +12,12 @@
 6. [Pages and Visuals Created](#Pages-and-visuals-created)
 7. [License](#License)
 
+<br>
+
 ## Project Overview
 This project focuses on analyzing and visualizing data from various sources to gain valuable insights into business operations. In this readme file, we'll guide you through the initial steps of the project, specifically the downloading, importing, and transformation of data within the following tables: Orders, Products, Sales, and Customers.
 
+<br>
 
 ## File structure 
 ![Alt text](https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/tree.png)
@@ -38,8 +41,12 @@ The project relies on four key tables: Orders, Products, Sales, and Customers. E
 >
 > - **Customers:** Stores customer-related information, including customer ID, name, and geographical location.
 
+<br>
+
 ## Creating Data Model
 Using the loaded in data I created a star schema with active, many-to-one relationships on the orders table. I created my own Date table using dax expressions.
+
+<br>
 
 ## Downloading
 To download and view the report on your local machine, run the command in the correct directory you wish to download it into:
@@ -50,7 +57,11 @@ Can also change the name of the folder:
 
 `mv Analytics-Power-BI-Report <YOUR_NAME_CHANGE_HERE>`
 
+<br>
+
 ## Pages + Visuals Created
+
+<br>
 
 ---
 
