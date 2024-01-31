@@ -47,63 +47,29 @@ alt="alt text" width="400 " align="right"
 
 ---
 
-
-https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/assets/114954374/10f89868-4bb5-42ee-8589-94f7c161ec9b
-
-
 ### Customer Detail
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+(https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/assets/114954374/10f89868-4bb5-42ee-8589-94f7c161ec9b)
+
 
 ---
-
-<img src="https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/CustomerDetails.png?raw=true" alt="alt text" width="400" align="right">
 
 ### Product Detail
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/assets/114954374/3640bbbb-9357-46d8-85be-03b903501be0
+
 
 ---
 
-<img src="https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/CustomerDetails.png?raw=true" alt="alt text" width="400" align="right"> 
+### Stores Map + Stores Drill Through
 
-### Stores Drill Through
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
----
 
-<img src="https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/CustomerDetails.png?raw=true" alt="alt text" width="400" align="right"> 
+https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/assets/114954374/eda7621b-641d-4930-8cca-a60a1603fefa
 
-### Stores Map
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 ---
 
