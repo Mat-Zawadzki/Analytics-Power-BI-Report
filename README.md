@@ -7,7 +7,7 @@
 1. [Project Overview](#project-overview)
 2. [Loading in Data](#Loading-in-data)
 3. [Creating Data Model](#Creating-data-model)
-4. [Pages + Visuals Created](#Pages-+-visuals-created)
+4. [Pages and Visuals Created](#Pages-and-visuals-created)
 5. [File structure ](#File-structure)
 
 ## Project Overview
