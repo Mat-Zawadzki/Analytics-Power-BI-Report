@@ -41,13 +41,13 @@ This project focuses on analyzing and visualizing data from various sources to g
 ## Loading in Data
 The project relies on four key tables: Orders, Products, Sales, and Customers. Each table provides essential information that contributes to a comprehensive understanding of the business data.
 
-> - **Orders:** Contains details about each order, including the order and shipping dates, the customer, store and product IDs for associating with dimension tables, and the amount of each product ordered.
->
-> - **Products:** Encompasses information about each product sold by the company, including the product code, name, category, cost price, sale price, and weight.
->
-> - **Stores:** Contains information on each store, including the store code, store type, country, region, and address.
->
-> - **Customers:** Stores customer-related information, including customer ID, name, and geographical location.
+ - **Orders:** Contains details about each order, including the order and shipping dates, the customer, store and product IDs for associating with dimension tables, and the amount of each product ordered.
+
+ - **Products:** Encompasses information about each product sold by the company, including the product code, name, category, cost price, sale price, and weight.
+
+ - **Stores:** Contains information on each store, including the store code, store type, country, region, and address.
+
+ - **Customers:** Stores customer-related information, including customer ID, name, and geographical location.
 
 <br>
 
