@@ -12,7 +12,7 @@ https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/assets/114954374/de639
 4. [Creating Data Model](#Creating-data-model)
 5. [Downloading](#Downloading)
 6. [Pages and Visuals Created](#Pages-and-visuals-created)
-7. [License](#License)
+7. [Licence](#Licence)
 
 <br>
 
@@ -109,4 +109,4 @@ https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/assets/114954374/eda76
 ---
 
 
-## License
+## Licence
