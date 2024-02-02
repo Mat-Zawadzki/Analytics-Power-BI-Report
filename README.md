@@ -73,14 +73,7 @@ Can also change the name of the folder:
 
 ### Executive Summary
 
-> - Total Orders by Category - Clustered Bar 
-> - Total Revenue by Date - Line 
-> - Total Rev by Country and store - Donut
-> - Total KPIs
-> - On metric KPIs 
-
-<br>
-<br>
+<img src="https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/executive_sumary_page.png">
 
 ---
 
