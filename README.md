@@ -34,9 +34,9 @@ This project focuses on analyzing and visualizing data from various sources to g
 > - Mat_Report - The report 
 >
 > - Tranformed_Orders_Table - Report I was testing transformations in
--->
 
 <br>
+-->
 
 ## Loading in Data
 The project relies on four key tables: Orders, Products, Sales, and Customers. Each table provides essential information that contributes to a comprehensive understanding of the business data.
