@@ -17,7 +17,7 @@ https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/assets/114954374/de639
 <br>
 
 ## Project Overview
-This project focuses on analyzing and visualizing data from various sources to gain valuable insights into business operations. In this readme file, we'll guide you through the initial steps of the project, specifically the downloading, importing, and transformation of data within the following tables: Orders, Products, Sales, and Customers.
+This project focuses on analyzing and visualizing data from various sources to gain valuable insights into business operations.
 
 <br>
 
@@ -65,7 +65,7 @@ Can also change the name of the folder:
 
 <br>
 
-## Pages + Visuals Created
+## Pages and Visuals Created
 
 ---
 
@@ -98,7 +98,7 @@ https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/assets/114954374/3640b
 
 ---
 
-### Stores Map + Stores Drill Through
+### Stores Map and Stores Drill Through
 
 
 
