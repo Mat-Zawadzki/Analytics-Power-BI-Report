@@ -17,13 +17,14 @@ https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/assets/114954374/de639
 <br>
 
 ## Project Overview
-This project focuses on analyzing and visualizing data from various sources to gain valuable insights into business operations.
+This project focuses on analyzing and visualizing data from various sources to gain valuable insights into business operations by presenting findings from different tables in PowerBi. There is a creating 
 
 <br>
 
 ## File structure 
 ![Alt text](https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/blob/main/Images/tree.png)
 
+<!--
 > - Clips - contains the videos used in the Readme
 >
 > - Images - contains images used 
@@ -33,6 +34,7 @@ This project focuses on analyzing and visualizing data from various sources to g
 > - Mat_Report - The report 
 >
 > - Tranformed_Orders_Table - Report I was testing transformations in
+-->
 
 <br>
 
