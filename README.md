@@ -17,7 +17,7 @@ https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/assets/114954374/de639
 <br>
 
 ## Project Overview
-This project focuses on analyzing and visualizing data from various sources to gain valuable insights into business operations by presenting findings from different tables in PowerBi. There is a creating 
+This project focuses on analyzing and visualizing data from various sources to gain valuable insights into business operations by presenting findings from different tables in PowerBi. Hacing completed the project I ran some SQL queries to find some additional information!
 
 <br>
 
