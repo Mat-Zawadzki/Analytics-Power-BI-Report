@@ -104,4 +104,5 @@ https://github.com/Mat-Zawadzki/Analytics-Power-BI-Report/assets/114954374/eda76
 ---
 
 
-## Licence
+## License Information
+This project is licensed under the MIT License. You can use, modify, and distribute this code freely. For more details, refer to the LICENSE file in the repository.
